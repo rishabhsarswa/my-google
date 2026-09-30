@@ -1,3 +1,3 @@
 here is my google
 
-download files over ftp foder ./downloading
+for downloading all files over ftp folder ./downloading
