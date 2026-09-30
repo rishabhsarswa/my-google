@@ -1,8 +1,6 @@
 
 script wedd2023vid /wedd2023vid https://github.com/rishabhsarswa/person_public/releases/download/2023wedd/a_download.sh
 
-acrypter sdcard_infinix_zero_2026_09 / https://github.com/rishabhsarswa/my-google/releases/download/sdcard_infinix_zero_2026_09/sdcard_infinix_zero_2026_09-2026_09_30_1038.tar.xz.acrypt.ApartHead cry15360
-
 
 
 acrypter google_takeout_2026_09 / https://github.com/rishabhsarswa/my-google/releases/download/google_takeout_2026_00_29/google_takeout_2026_00_29-2026_09_29_1926.tar.xz.acrypt.ApartHead cry15360
@@ -17,3 +15,6 @@ acrypter wedd2023images / https://github.com/rishabhsarswa/person_public/release
 
 
 acrypter recoverd_old_family_photos_2013-2018 / https://github.com/rishabhsarswa/person_public/releases/download/recoverd_old_family_photos_2013-2018/recoverd_old_family_photos_2013-2018.tar.xz.acrypt.ApartHead cry15360
+
+acrypter sdcard_infinix_zero_2026_09 / https://github.com/rishabhsarswa/my-google/releases/download/sdcard_infinix_zero_2026_09/sdcard_infinix_zero_2026_09-2026_09_30_1038.tar.xz.acrypt.ApartHead cry15360
+
