@@ -2,7 +2,7 @@
 
 set -eu
 echo -n "fetch scripts ... "
-#wget -q https://github.com/rishabhsarswa/my-google/raw/refs/heads/main/scripts.txt -O scripts.txt
+wget -q https://github.com/rishabhsarswa/my-google/raw/refs/heads/main/scripts.txt -O scripts.txt
 echo " done"
 
 
